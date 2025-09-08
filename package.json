@@ -3,5 +3,9 @@
     "build": "next build",
     "lint": "eslint ./src",
     "test": "node ./run-tests.js"
-  }
+  },
+  "devDependencies": {
+    "nx": "21.4.1"
+  },
+  "nx": {}
 }
